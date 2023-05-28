@@ -2,7 +2,7 @@
 title: 桥洞周报 EP21
 description: 不知道为什么，很好奇初中生的作息表，每次我快要迟到了他们都在慢悠悠的走。
 slug: weekly21
-date: 2022-03-08 00:00:00+0000
+date: 2023-05-15
 categories:
     - qiaodong-weekly
 tags:

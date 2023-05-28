@@ -2,7 +2,7 @@
 title: 桥洞周报 EP19
 description: 啊嘞嘞？为什么一下子就跳到第 19 期了呢？我不到啊！
 slug: weekly19
-date: 2022-03-06 00:00:00+0000
+date: 2023-05-01
 categories:
     - qiaodong-weekly
 tags:
