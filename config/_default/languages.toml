@@ -1,31 +1,31 @@
 # Uncomment this file to enable multilanguage site support
 
-[en]
-weight = 1
-languageName = "English"
-languagedirection = "ltr"
-title = "QiaodongTV"
-[en.sidebar]
-emoji = "🎶"
-subtitle = "Record Life, Love Life"
-[en.sidebar.avatar]
-enabled = true
-src = "https://static.smartsheep.studio/d/QiaodongTV/Avatar.png"
-[en.footer]
-since = 2017
-customText = "Sponsored by SmartSheep Studio"
+# [en]
+# weight = 1
+# languageName = "English"
+# languagedirection = "ltr"
+# title = "QiaodongTV"
+# [en.sidebar]
+# emoji = "🎶"
+# subtitle = "Record Life, Love Life"
+# [en.sidebar.avatar]
+# enabled = true
+# src = "https://static.smartsheep.studio/d/QiaodongTV/Avatar.png"
+# [en.footer]
+# since = 2017
+# customText = "Sponsored by SmartSheep Studio"
 
-[zh-cn]
-weight = 1
-languageName = "简体中文"
-languagedirection = "ltr"
-title = "桥洞广电"
-[zh-cn.sidebar]
-emoji = "🎶"
-subtitle = "记录生活，热爱生活"
-[zh-cn.sidebar.avatar]
-enabled = true
-src = "https://static.smartsheep.studio/d/QiaodongTV/Avatar.png"
-[zh-cn.footer]
-since = 2017
-customText = "由 智羊工作室 赞助"
+# [zh-cn]
+# weight = 1
+# languageName = "简体中文"
+# languagedirection = "ltr"
+# title = "桥洞广电"
+# [zh-cn.sidebar]
+# emoji = "🎶"
+# subtitle = "记录生活，热爱生活"
+# [zh-cn.sidebar.avatar]
+# enabled = true
+# src = "https://static.smartsheep.studio/d/QiaodongTV/Avatar.png"
+# [zh-cn.footer]
+# since = 2017
+# customText = "由 智羊工作室 赞助"
